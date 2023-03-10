@@ -1,0 +1,17 @@
+C:\Dev\TrakingTasks\Traker\bin\Debug\net6.0-windows\Traker.exe
+C:\Dev\TrakingTasks\Traker\bin\Debug\net6.0-windows\Traker.deps.json
+C:\Dev\TrakingTasks\Traker\bin\Debug\net6.0-windows\Traker.runtimeconfig.json
+C:\Dev\TrakingTasks\Traker\bin\Debug\net6.0-windows\Traker.dll
+C:\Dev\TrakingTasks\Traker\bin\Debug\net6.0-windows\Traker.pdb
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\Traker.csproj.AssemblyReference.cache
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\Traker.Form1.resources
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\Traker.csproj.GenerateResource.cache
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\Traker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\Traker.AssemblyInfoInputs.cache
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\Traker.AssemblyInfo.cs
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\Traker.csproj.CoreCompileInputs.cache
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\Traker.dll
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\refint\Traker.dll
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\Traker.pdb
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\Traker.genruntimeconfig.cache
+C:\Dev\TrakingTasks\Traker\obj\Debug\net6.0-windows\ref\Traker.dll
